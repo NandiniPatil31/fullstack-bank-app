@@ -1,0 +1,7 @@
+com\bankdemo\bankapp\AccountRequest.class
+com\bankdemo\bankapp\BankAccountService.class
+com\bankdemo\bankapp\BankAccountRepository.class
+com\bankdemo\bankapp\BankAccountController.class
+com\bankdemo\bankapp\BankappApplication.class
+com\bankdemo\bankapp\TransactionRequest.class
+com\bankdemo\bankapp\BankAccount.class

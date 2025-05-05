@@ -1,0 +1,1 @@
+-e ".idea/\n*.iml\ntarget/\n*.log\n*.class\n*.jar\n*.war\n.DS_Store\n.env\n*.db\n*.h2.db\n.vscode/" 
